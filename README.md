@@ -1,6 +1,6 @@
-# laravel-
+# laravel
 
-
+## [firstLaravel](https://github.com/ChathuraDR/laravel/tree/master/firstLaravel) ##
 ### Creating a laravel project using composer
 
 * composer create-project laravel/laravel --prefer-dist 
@@ -11,3 +11,6 @@ or
 ### Create a controller file
 * cd into your laravel project via command prompt/ terminal
 * Type, php artisan make:controller <controllerName>
+
+
+***
