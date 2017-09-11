@@ -3,8 +3,7 @@
 
 ### Creating a laravel project using composer
 
-*composer create-project laravel/laravel --prefer-dist
-or
+*composer create-project laravel/laravel --prefer-dist or
 *composer create-project laravel/laravel <projectName>
 
 
