@@ -11,7 +11,7 @@ or
 ### Controllers
 To create a controller,
 * cd into your laravel project via command prompt/ terminal
-* Type, `php artisan make:controller <controllerName>`
+* Type, `php artisan make:controller <controllerName> --resource`
 
 
 ***
