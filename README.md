@@ -8,9 +8,10 @@ or
 * `composer create-project laravel/laravel <projectName>`
 
 
-### Create a controller file
+### Controllers
+To create a controller,
 * cd into your laravel project via command prompt/ terminal
-* Type, php artisan make:controller <controllerName>
+* Type, `php artisan make:controller <controllerName>`
 
 
 ***
@@ -30,4 +31,9 @@ or
 
 ### Models
 * To create a model, `php artisan make:model model_name`
+
+### Route List
+* To get route list, `php artisan route:list`
+
+***
 
